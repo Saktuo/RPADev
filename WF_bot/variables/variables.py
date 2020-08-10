@@ -1,11 +1,6 @@
-'''
-Variables for Robot Framework goes here.
-'''
-import calendar
-from datetime import date
-
-WEEK_DAY_NAME = calendar.day_name[date.today().weekday()]
-
-# +
-
-GOOGLE_URL="https://wf.wapice.com/"
+GOOGLE_URL= "https://wf.wapice.com/"
+GLOBAL_RETRY_AMOUNT= "3x"
+GLOBAL_RETRY_INTERVAL= "1.0s"
+EXCEL_FILE_LOCATION= "C:\\Users\\saktuo\\Desktop\\WF_emails.xlsx"
+POWERSHELL_SCRIPT= "C:\\Users\\saktuo\\Desktop\\send_email"
+SC_POWERSHELL= "ps_sc.png"
