@@ -1,0 +1,6 @@
+pandas
+robotframework
+robotframework-seleniumlibrary
+rpaframework
+webdrivermanager
+xlrd

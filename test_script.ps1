@@ -1,0 +1,1 @@
+Send-MailMessage -From 'dw_rpa@wapice.com' -To 'sakari.tuominen@wapice.com' -Subject 'Another Testmail' -SmtpServer 'smtp.wapice.com' -Port 587

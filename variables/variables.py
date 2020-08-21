@@ -1,0 +1,4 @@
+WAPICE_FAMILY_URL= "https://wf.wapice.com/"
+GLOBAL_RETRY_AMOUNT= "3x"
+GLOBAL_RETRY_INTERVAL= "1.0s"
+SC_POWERSHELL= "ps_sc.png"
